@@ -1,0 +1,9 @@
+{
+  "actualizado": "16/09 14:40",
+  "totalOps": 9289,
+  "fichas": [
+    {"token":"22dac92b-8cb3-435d-b54c-5a376851bb54","legajo":2510,"sector":"ELECTROMECANICA","ops":16,"capacitaciones":9,"ats":0,"actualizado":"16/09 14:33"},
+    {"token":"c3df0bd9-3257-4eb1-b8fd-a9420c038823","legajo":2513,"sector":"LABORATORIO","ops":4,"capacitaciones":21,"ats":0,"actualizado":"16/09 14:33"},
+    {"token":"d7aa8d7c-ecbe-420c-9e97-b0db55bdc573","legajo":2495,"sector":"ALMACEN","ops":57,"capacitaciones":12,"ats":0,"actualizado":"16/09 14:39"}
+  ]
+}
